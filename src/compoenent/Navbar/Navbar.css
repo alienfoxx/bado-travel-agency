@@ -1,0 +1,45 @@
+.app__navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+.app__navbar-logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.app__navbar-logo img {
+  width: 150px;
+  object-fit: cover;
+}
+
+.app__navbar-links {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.app__navbar-links li {
+  margin: 0 1rem;
+  cursor: pointer;
+}
+.app__navbar-links li .singup {
+  border: 1.2px solid var(--text-color);
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+.app__navbar-links li .singup:hover {
+  background-color: var(--color-primary);
+  color: #fff;
+  border: none;
+  transition: all 0.5s ease;
+}
+
+.app__navbar-links li:hover {
+  color: var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  transition: all 0.5s ease;
+}
