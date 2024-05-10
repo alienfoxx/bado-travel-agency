@@ -9,6 +9,7 @@ import expedia from "../assests/expidia.png";
 import booking from "../assests/booking.png";
 import weather from "../assests/weather-icon.png";
 import testemonial from "../assests/testimonial-1.png";
+import slide from '../assests/slide.png'
 
 export default {
   rabat,
@@ -22,4 +23,5 @@ export default {
   booking,
   weather,
   testemonial,
+  slide,
 };

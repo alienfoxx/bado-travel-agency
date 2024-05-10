@@ -15,10 +15,13 @@
 .headtext{
   font-family: var(--font-base);
   color: var(--text-color);
-  font-size: 60px;
+  font-size: 41px;
   line-height: 70px;
   letter-spacing: 0.04em;
   text-transform: capitalize;
+}
+.section-padding{
+  padding: 1rem 2rem;
 }
 .slide-bottom {
   -webkit-animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
