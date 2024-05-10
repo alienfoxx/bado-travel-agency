@@ -15,7 +15,8 @@
 .app_categories_cards-container_card:hover {
   transition: all 0.5s ease;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-  border-radius: 50px;
+  border: none;
+
   transform: scale(1.1);
 }
 .app_categories_cards-container_card img {

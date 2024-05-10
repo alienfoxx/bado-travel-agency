@@ -12,6 +12,12 @@
   line-height: 28px;
   font-size: 16.5px;
 }
+.desc{
+  font-family: var(--font-base);
+  color: var(--text-color);
+  line-height:18px;
+  font-size: 14.5px;
+}
 .title-text{
   font-family: var(--font-base);
   color: var(--text-color);
