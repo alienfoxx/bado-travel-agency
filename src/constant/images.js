@@ -10,6 +10,7 @@ import booking from "../assests/booking.png";
 import weather from "../assests/weather-icon.png";
 import testemonial from "../assests/testimonial-1.png";
 import slide from '../assests/slide.png'
+import custimze from '../assests/custimaztion-icon.png'
 
 export default {
   rabat,
@@ -24,4 +25,5 @@ export default {
   weather,
   testemonial,
   slide,
+  custimze,
 };

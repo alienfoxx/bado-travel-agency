@@ -12,6 +12,13 @@
   line-height: 28px;
   font-size: 16.5px;
 }
+.title-text{
+  font-family: var(--font-base);
+  color: var(--text-color);
+  line-height: 28px;
+  letter-spacing: 0.04em;
+  font-size: 16.5px;
+}
 .headtext{
   font-family: var(--font-base);
   color: var(--text-color);

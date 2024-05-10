@@ -1,0 +1,25 @@
+.app_categories {
+  text-align: center;
+}
+.app_categories_cards-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 4rem;
+}
+
+.app_categories_cards-container_card {
+  flex: 1;
+  cursor: pointer;
+}
+.app_categories_cards-container_card:hover {
+  transition: all 0.5s ease;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 50px;
+  transform: scale(1.1);
+}
+.app_categories_cards-container_card img {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}

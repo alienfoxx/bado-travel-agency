@@ -50,5 +50,6 @@
 .app__slider-info_action .play-icon {
   font-size: 2rem;
   margin-right: 1rem;
+  cursor: pointer;
   color: var(--text-color);
 }
