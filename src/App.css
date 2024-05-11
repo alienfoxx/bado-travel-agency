@@ -23,6 +23,7 @@
   color: var(--text-color);
   line-height: 28px;
   letter-spacing: 0.04em;
+  font-weight: 500;
   font-size: 16.5px;
 }
 .headtext{

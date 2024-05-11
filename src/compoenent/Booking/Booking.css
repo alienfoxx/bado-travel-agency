@@ -1,0 +1,80 @@
+.app__booking {
+  height: 80vh;
+  display: flex;
+  margin: 4rem 0;
+}
+.app__booking-info {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+.app__booking-trip-info {
+  flex: 1;
+}
+.booking__box {
+  display: flex;
+  margin: 2rem 0;
+}
+.booking__box-info {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.booking-icons {
+  width: 47px;
+  height: 48px;
+  margin: 0 1rem 0 0;
+  background: var(--color-primary);
+  padding: 0.5rem;
+  color: #fff;
+  border-radius: 5px;
+}
+.bookin-trip-info__card {
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  border: 1px solid #ffffff;
+  display: flex;
+  /* align-items: center; */
+  width: 50%;
+  border-radius: 10px;
+  flex-direction: column;
+}
+.card-image img {
+  width: 281px;
+  height: 181px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+.card-info {
+  display: flex;
+}
+.card-info hr {
+  margin: 0 1rem;
+  height: 22px;
+  width: 1px;
+  color: black;
+}
+
+.card-icon {
+  width: 44px;
+  padding: 0.5rem;
+
+  height: 44px;
+  border-radius: 50%;
+  margin: 1rem 1rem 0 0;
+  background-color: rgb(226, 226, 226);
+
+  color: gray;
+}
+.card-stat {
+  margin-top: 2rem;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+}
+.card-stat-icon {
+  font-size: 24px;
+  color: gray;
+}
