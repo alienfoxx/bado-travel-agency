@@ -9,8 +9,12 @@ import expedia from "../assests/expidia.png";
 import booking from "../assests/booking.png";
 import weather from "../assests/weather-icon.png";
 import testemonial from "../assests/testimonial-1.png";
-import slide from '../assests/slide.png'
-import custimze from '../assests/custimaztion-icon.png'
+import slide from "../assests/slide.png";
+import custimze from "../assests/custimaztion-icon.png";
+import tesmonial1 from '../assests/testimonial-1.png'
+import tesmonial2 from '../assests/testimonial-2.png'
+import tesmonial3 from '../assests/testmonial-3.png'
+
 
 export default {
   rabat,
@@ -26,4 +30,7 @@ export default {
   testemonial,
   slide,
   custimze,
+  tesmonial1,
+  tesmonial2,
+  tesmonial3,
 };
