@@ -1,0 +1,10 @@
+.app__parteners-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.app__parteners-wrapper img {
+  width: 230px;
+  height: 230px;
+}

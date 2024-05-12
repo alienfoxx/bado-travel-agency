@@ -15,6 +15,7 @@ import tesmonial1 from '../assests/testimonial-1.png'
 import tesmonial2 from '../assests/testimonial-2.png'
 import tesmonial3 from '../assests/testmonial-3.png'
 
+import airbnb from '../assests/airbnb-log.png'
 
 export default {
   rabat,
@@ -33,4 +34,5 @@ export default {
   tesmonial1,
   tesmonial2,
   tesmonial3,
+  airbnb,
 };
